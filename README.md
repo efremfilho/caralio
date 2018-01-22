@@ -1,2 +1,2 @@
 # caralio
-Enlarge your url
+Encurte o seu caralio (aka URL)
